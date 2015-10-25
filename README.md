@@ -17,7 +17,7 @@
 
 # Usage
 
-Just clone or download it, then double-click any file for evaluation. There's no magic, no bullshit.
+Just clone or download it, then double-click any file for evaluation. There's no magic nor bullshit.
 
 # Author
 
