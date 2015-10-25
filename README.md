@@ -1,7 +1,5 @@
 # Chiang's Ivy League
 
-![our-kenny](http://i.imgur.com/IDwXldv.png?2)
-
 > 
 少女热衷于星座 <br>
 中产者忙于移居海外 <br>
@@ -14,6 +12,8 @@
 如同倒影中的纳西斯 <br>
 
 > ——《盛世》
+
+![our-kenny](http://i.imgur.com/IDwXldv.png?2)
 
 # Usage
 
