@@ -21,7 +21,7 @@ Just clone or download it, then double-click any file for evaluation. There's no
 
 # Author
 
-Tong Kuo.
+[Tong Kuo](https://github.com/TongKuo).
 
 # Acknowledgements
 
