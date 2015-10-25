@@ -11,3 +11,7 @@
 如同倒影中的纳西斯 <br>
 
 > ——《盛世》
+
+# License
+
+This repo was destributed under the [Creative Commons Zero v1.0 Universal](./LICENSE).
