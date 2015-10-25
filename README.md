@@ -19,6 +19,10 @@
 
 Just clone or download it, then double-click any file for evaluation. There's no magic, no bullshit.
 
+# Author
+
+Tong Kuo.
+
 # Acknowledgements
 
 * `Keynote` by Apple Inc.
