@@ -1,6 +1,6 @@
 # Chiang's Ivy League
 
-![our-kenny](http://i.imgur.com/IDwXldv.png)
+![our-kenny](http://i.imgur.com/IDwXldv.png?2)
 
 > 
 少女热衷于星座 <br>
