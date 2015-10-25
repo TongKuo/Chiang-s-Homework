@@ -1,4 +1,5 @@
 # Chiang-s-IvyLeague
+
 > 
 少女热衷于星座 <br>
 中产者忙于移居海外 <br>
@@ -11,6 +12,17 @@
 如同倒影中的纳西斯 <br>
 
 > ——《盛世》
+
+# Usage
+
+Just clone or download it, then double-click any file for evaluation. There's no magic, no bullshit.
+
+# Acknowledgements
+
+* Pages by Apple Inc.
+* Keynote by Apple Inc.
+* Preview by Apple Inc.
+* PDF (Portable Document Format) by Adobe Systems Inc.
 
 # License
 
