@@ -1,4 +1,4 @@
-# Chiang-s-IvyLeague
+# Chiang's Ivy League
 
 > 
 少女热衷于星座 <br>
