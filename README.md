@@ -19,10 +19,10 @@ Just clone or download it, then double-click any file for evaluation. There's no
 
 # Acknowledgements
 
-* Pages by Apple Inc.
 * Keynote by Apple Inc.
-* Preview by Apple Inc.
+* Pages by Apple Inc.
 * PDF (Portable Document Format) by Adobe Systems Inc.
+* Preview by Apple Inc.
 
 # License
 
